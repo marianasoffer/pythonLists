@@ -13,14 +13,13 @@ listname="misc"
 
 
 
-#These keys belong to my own twitter application, they are here just so you can
-#quickly see how the application works but you should enter your own twitter
-#api keys to test this program properly
+#Pleae enter your twitter keys. And corret the usr and listname variables
 
-key="nQXCRcHhAGP0X6cBp0g"
-secretKey="3Nc4x9o4agfe0UjedI4LjVQbthylDCd8ePNLVCuYMA"
-accessKey="27745630-2JqslhlOiUiHlGKz1Jm19wAV6o3yH0JlZj89R40pd"
+key=""
+secretKey=""
+accessKey=""
 accessAuth=""
+
 
 #counts all the users from the list that are also in the
 #users from those users lists
